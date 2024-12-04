@@ -1,4 +1,4 @@
-# Rust is god 
+# Rust lang is god !!
 
 
 ![1](https://github.com/user-attachments/assets/8977fe36-7353-4272-8c90-a1d2e97ee71b)
