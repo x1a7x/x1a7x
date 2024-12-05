@@ -1,12 +1,10 @@
 
 
+
+
+-----------------------------------------------------------
+-----------------------------------------------------------
 PHP is a mind virus. JS is not secure. GO is okay but RUST is superior so why bother with GO? Rust does EVERYTHING- any type of app and it is objectively superior in many different ways. If an objectively better lang is pooped out by AI, i will gladly use it. Till then-, today, Rust is god. 
-
------------------------------------------------------------
------------------------------------------------------------
-LaurieWired is the only person to use whatever lang she wants :)
-
-all others are mandated to use rust lang only. 
 -----------------------------------------------------------
 -----------------------------------------------------------
 
