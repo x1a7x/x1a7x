@@ -5,7 +5,7 @@
 -----------------------------------------------------------
 -----------------------------------------------------------
 -----------------------------------------------------------
- Rust does EVERYTHING- any type of app and it is objectively superior in many different ways. If an objectively better lang is pooped out by AI, i will gladly use it. Till then-, today, Rust is god. 
+ Rust does EVERYTHING- any type of app- and it is objectively superior in many different ways. If an objectively better lang is pooped out by AI, i will gladly use it. Till then-, today, Rust is god. 
 -----------------------------------------------------------
 -----------------------------------------------------------
 -----------------------------------------------------------
