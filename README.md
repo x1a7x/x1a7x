@@ -4,6 +4,9 @@ PHP is a mind virus. JS is not secure. GO is okay but RUST is superior so why bo
 
 -----------------------------------------------------------
 -----------------------------------------------------------
+LaurieWired is the only person to use whatever lang she wants :)
+
+all others are mandated to use rust lang only. 
 -----------------------------------------------------------
 -----------------------------------------------------------
 
