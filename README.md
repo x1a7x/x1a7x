@@ -17,9 +17,6 @@
 
 
 
-(stand up comedy paragraph about coding >> ) PHP is easy, but so is a eager hooker with a bad STD. Node Js is evil and just silly- deps that call on deps that call on deps is as stupidly NOT secure as it gets. Js itself is a virus. Golang is decent, as long as you want to trade easy coding for the mem garbage collection to freeze your app at the most unpredictable time possible. 
-
-////////////////////////////////////////////////////////////////////////////////////
 
 
 Rust is best- objectively and for many reasons. I mostly fw rust- in ANY sane opinion it is pure stupidity to fw anything less. "Use Rust if you want the best performance and security"- WHY are you even coding for if you do not want performance and security?  Hey, if a new lang is pooped out by an AI robot and is superior to Rust, i would happily change. But today, Rust is god. Objectively. 
