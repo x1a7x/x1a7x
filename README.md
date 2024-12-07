@@ -13,6 +13,7 @@ PHP is easy, but so is a eager hooker with a STD. Node Js is evil and just silly
 
 The daily prime or theo clickbait title video of the day showing a new best lang only generates constant fresh content that makes you stupider. Ask AI a set of non leading questions, and you will grasp why rust is so good. They say people believe things that they "discover" for themselves- a valid saying. But if you are new and only know 1 or 2 reasons why rust is better than your fave lang- you would be AMAZED to learn the ways of rust. Simply put- Rust is god. 
 
+# Learn to discern. 
 
 ![rust](https://github.com/user-attachments/assets/4788eba0-1db7-4dc9-a675-a8478e0c9e10)
 
