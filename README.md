@@ -15,14 +15,6 @@
 
 
 
-
-
-
-
-"Use Rust if you want the best performance and security"- WHY are you even coding for if you do not want performance and security?  Hey, if a new lang is pooped out by an AI robot and is superior to Rust, i would happily change. But today, Rust is god. Objectively. 
-
-The daily prime or theo clickbait title video of the day showing a new best lang only generates constant fresh content that makes you stupider. Ask ChatGPT a set of non leading questions, and you will grasp why rust is so good. They say people believe things that they "discover" for themselves- a valid saying. But if you are new and only know 1 or 2 reasons why rust is better than your fave lang- you would be AMAZED to learn the ways of rust. Simply put- Rust is god. 
-
 # Learn to discern. 
 
 ![rust](https://github.com/user-attachments/assets/4788eba0-1db7-4dc9-a675-a8478e0c9e10)
