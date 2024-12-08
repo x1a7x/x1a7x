@@ -8,8 +8,7 @@
 # Knowledge is free.
 
 -----------------------------------------------------------
- I fw crypto, chess related and imageboard apps. Rust is a new standard of langs- anything less is stupid.  Most of the code here is made with great care 
- and is far superior to some similar apps. Then again, some of the code here sucks. 
+ I fw crypto, chess related and imageboard apps. 
 -----------------------------------------------------------
 -----------------------------------------------------------
 
