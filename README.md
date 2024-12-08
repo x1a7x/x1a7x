@@ -22,7 +22,7 @@ as ai gets better, learning to code is objectively silly :)
 -----------------------------------------------------------
 -----------------------------------------------------------
 -----------------------------------------------------------
-# Step 3- Ask people in coding boot camps if they feel stupid yet. 
+# Step 3- Ask people in coding boot camps toiling with inferior langs if they feel stupid yet. 
 ![2](https://github.com/user-attachments/assets/da346cb4-458a-4803-8e4a-bca0c5842cfc)
 ![2](https://github.com/user-attachments/assets/da346cb4-458a-4803-8e4a-bca0c5842cfc)
 ![2](https://github.com/user-attachments/assets/da346cb4-458a-4803-8e4a-bca0c5842cfc)
