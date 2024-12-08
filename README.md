@@ -1,5 +1,16 @@
 
+-----------------------------------------------------------
+-----------------------------------------------------------
 
+
+
+# DAMMMMMMMM...... 
+# I NEVER used duck db before. I just asked ai to convert one of my imageboards from sled db to duck db
+# and BAM!!! I now have a RUST coded imageboard that uses duck .db 
+
+-----------------------------------------------------------
+-----------------------------------------------------------
+-----------------------------------------------------------
 
 -----------------------------------------------------------
 -----------------------------------------------------------
@@ -40,15 +51,4 @@ as ai gets better, learning to code is objectively silly :)
 ![rust](https://github.com/user-attachments/assets/4788eba0-1db7-4dc9-a675-a8478e0c9e10)
 
 
------------------------------------------------------------
------------------------------------------------------------
 
-
-
-# DAMMMMMMMM...... 
-# I NEVER used duck db before. I just asked ai to convert one of my imageboards from sled db to duck db
-# and BAM!!! I now have a RUST coded imageboard that uses duck .db 
-
------------------------------------------------------------
------------------------------------------------------------
------------------------------------------------------------
