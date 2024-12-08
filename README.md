@@ -6,7 +6,7 @@
 
 # DAMMMMMMMM...... 
 # I NEVER used duck db before. I just asked ai to convert one of my imageboards from sled db to duck db
-# and BAM!!! I now have a RUST coded imageboard that uses duck .db 
+# .... annnnnnnd BAM!!! I now have a RUST coded imageboard that uses duck .db 
 
 -----------------------------------------------------------
 -----------------------------------------------------------
