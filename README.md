@@ -13,12 +13,7 @@
  
 -----------------------------------------------------------
 -----------------------------------------------------------
-
-NEWS- ChatGPT can now code full web apps like a FULL imageboard
-with admin functions! For real, it just made one in RUST LANG and 
-it functions great! WOW. 
-
-
+Tutorial- how to code- just tell CHATGPT what to make !! 
 -----------------------------------------------------------
 -----------------------------------------------------------
 
