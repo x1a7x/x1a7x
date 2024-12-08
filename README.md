@@ -29,6 +29,8 @@ HERE IS MY 3 STEP, 1 MINUTE CODING BOOT CAMP THAT EMPOWERS YOU:::
 -----------------------------------------------------------
 # Step 3- Ask people in coding boot camps if they feel stupid yet. 
 ![2](https://github.com/user-attachments/assets/da346cb4-458a-4803-8e4a-bca0c5842cfc)
+![2](https://github.com/user-attachments/assets/da346cb4-458a-4803-8e4a-bca0c5842cfc)
+![2](https://github.com/user-attachments/assets/da346cb4-458a-4803-8e4a-bca0c5842cfc)
 
 -----------------------------------------------------------
 -----------------------------------------------------------
