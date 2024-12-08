@@ -6,7 +6,7 @@
 Ai models empower you to code apps - it is profoundly remarkable. Learning to code used to be cool-
 as ai gets better, learning to code is objectively silly :) 
 
-HERE IS MY 3 STEP RUST LANG BOOT CAMP::: 
+3 STEPS TO MAKE SUPERIOR APPS ::: 
 -----------------------------------------------------------
 -----------------------------------------------------------
 ![1](https://github.com/user-attachments/assets/2328cde6-b47f-4efc-978b-9c331dfefb94)
