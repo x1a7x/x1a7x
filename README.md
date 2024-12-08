@@ -14,6 +14,22 @@
 -----------------------------------------------------------
 -----------------------------------------------------------
 
+NEWS- ChatGPT can now code full web apps like a FULL imageboard
+with admin functions! For real, it just made one in RUST LANG and 
+it functions great! WOW. 
+
+
+-----------------------------------------------------------
+-----------------------------------------------------------
+
+
+
+
+
+
+
+
+
 ![rust](https://github.com/user-attachments/assets/4788eba0-1db7-4dc9-a675-a8478e0c9e10)
 
 
