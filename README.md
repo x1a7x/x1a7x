@@ -20,7 +20,9 @@
 -----------------------------------------------------------
  I mostly fw crypto, chess related and imageboard apps. In fact
  i do not even bother coding. I just dream up apps and AI does all 
- the rest... its quite amazing. 
+ the rest... its quite amazing. On 8/12 AI made me a 900 line full
+ imageboard app with Rust and Postgres - full admin features and all. 
+ Apps i used to DREAM of can now be made in the blink of an eye. 
 
 
 
