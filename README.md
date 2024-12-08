@@ -46,7 +46,7 @@ as ai gets better, learning to code is objectively silly :)
 
 
 # DAMMMMMMMM...... 
-# I NEVER used duck db before. I just asked ai to convert one of my imageboards to use duck db
+# I NEVER used duck db before. I just asked ai to convert one of my imageboards from sled db to duck db
 # and BAM!!! I now have a RUST coded imageboard that uses duck .db 
 
 -----------------------------------------------------------
