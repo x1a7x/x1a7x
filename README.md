@@ -4,7 +4,7 @@
 -----------------------------------------------------------
 -----------------------------------------------------------
 Ai models empower you to code apps - it is profoundly remarkable. Learning to code used to be cool-
-as ai gets better, learning to code becomes silly :) 
+as ai gets better, learning to code is objectively silly :) 
 
 HERE IS MY 3 STEP, 1 MINUTE RUST CODING BOOT CAMP THAT EMPOWERS YOU::: 
 -----------------------------------------------------------
