@@ -25,7 +25,7 @@
  Apps i used to DREAM of can now be made in the blink of an eye. AI gets
  better all the time- once you learn to ask for small changes and revert
  if it screws up your code- AI becomes incredibly powerful. WHATEVER model you 
- are using, you just have to know how to use AI to code. 
+ are using, you just have to know how to use AI. 
 
 
 
