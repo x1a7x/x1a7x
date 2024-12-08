@@ -9,7 +9,7 @@ the 20 dollar a month plan, and i am learning to use it as well as possible to
 code. (it lets you use limited model 1o for a few questions a week) I learned a lot of tricks and gained experience so far. I fight for the
 common person who ony wants to pay 20 a month dammit! But seriously, even the 20 a month
 older chat gpt models empower you to code apps - it is profoundly remarkable. Learning to code used to be cool-
-as ai gets better, learning to code becomes silly. AI far surpasses any human brain. 
+as ai gets better, learning to code becomes silly :) 
 
 HERE IS MY 3 STEP, 1 MINUTE CODING BOOT CAMP THAT EMPOWERS YOU::: 
 -----------------------------------------------------------
