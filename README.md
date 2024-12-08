@@ -18,7 +18,9 @@
 
 -----------------------------------------------------------
 -----------------------------------------------------------
- I mostly fw crypto, chess related and imageboard apps. 
+ I mostly fw crypto, chess related and imageboard apps. In fact
+ i do not even bother coding. I just dream up apps and AI does all 
+ the rest... its quite amazing. 
 
 
 
