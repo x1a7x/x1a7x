@@ -9,6 +9,8 @@ the 20 dollar a month plan, and i am learning to use it as well as possible to
 code. I learned a lot of tricks and gained experience so far. I fight for the
 common person who ony wants to pay 20 a month dammit! But seriously, even the 20 a month
 older chat gpt models empower you to code apps - it is profoundly remarkable. 
+
+HERE IS MY 3 STEP, 1 MINUTE CODING BOOT CAMP THAT EMPOWERS YOU::: 
 -----------------------------------------------------------
 -----------------------------------------------------------
 ![1](https://github.com/user-attachments/assets/2328cde6-b47f-4efc-978b-9c331dfefb94)
