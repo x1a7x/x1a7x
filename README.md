@@ -8,7 +8,7 @@
 # Knowledge is free.
 
 -----------------------------------------------------------
- I fw crypto, chess related and imageboard apps. 
+ I mostly fw crypto, chess related and imageboard apps. 
 -----------------------------------------------------------
 -----------------------------------------------------------
 
