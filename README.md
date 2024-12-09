@@ -1,6 +1,6 @@
 
 
-im a usaf vet (in the p&t club). I mostly f/w rust. The more i f/w rust the more i look down on other langs. Rust is the first of a new standard of langs. Anything superior to rust would be awesome (like if ai poops out a superior lang). But today-, make no mistake. Rust is god. Learn to discern. Click video titles from former meth heads that tout the lang of the day only serve to generate bs content and make you stupider. 
+usaf vet (p&t). I mostly f/w rust. The more i f/w rust the more i look down on other langs. Rust is the first of a new standard of langs. Anything superior to rust would be awesome (like if ai poops out a superior lang). But today-, make no mistake. Rust is god. Learn to discern. Click video titles from former meth heads that tout the lang of the day only serve to generate bs content and make you stupider. 
 
 Most ppl are too stupid to realize that prime or theo vids make you stupider. Yeah, i said it. Lots of bs in the tech world. Many so called tech influencers make you stupider. They are not about the tech. They do not have the true heart of a teacher. All of them waste your time and make you stupider. Goood luck with that. 
 
