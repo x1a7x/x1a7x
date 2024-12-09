@@ -27,7 +27,7 @@ Want to dev like a chad???
 -----------------------------------------------------------
 -----------------------------------------------------------
 
-About- im a usaf vet (p&t) and mostly f/w Rust 
+
 
 
 
@@ -35,6 +35,37 @@ About- im a usaf vet (p&t) and mostly f/w Rust
 
 
 ![rust](https://github.com/user-attachments/assets/4788eba0-1db7-4dc9-a675-a8478e0c9e10)
+
+
+
+
+
+
+
+About- im a usaf vet (p&t) and mostly f/w Rust a tiny bit of php. 
+
+
+About PHP- In theory, a small, well-audited PHP codebase, following all security best practices, can be extremely securure (the smaller the codebase the less security implemantations are an absolute requirement). But given the same developer skill and diligence, Rust’s language design and compiler checks provide a more robust safety net. Over the long run, especially in complex scenarios, Rust generally makes it easier and more natural to achieve and maintain a higher baseline of safety and security compared to PHP. And that is an understatment- rust is WAY more secure for many reasons. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
