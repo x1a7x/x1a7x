@@ -2,7 +2,7 @@ The apps that have a repo for version 1 version 2 and so forth are for different
 
 Lots of git ppl use git as an obfuscated pile of crap as a backup for personal code and then they try to pass it off as working code, which wastes your time. None of that bs here. I can assure you that before i upload a single app, it compiled and ran on my server.  You will find all the code i make small enough to easily feed to chat-gpt in order to make it super easy for anyone to feed the code to Ai (chat gpt or whatever) in order to audit or chage for your specific server. Lastly-, any code for apps that i mark as production will have a full, no bs install script. 
 
-People who make apps with lots of extra files and way too much code make it impossible to feed to Ai to audit are making crap apps. If you are making something simple like an imageboard, stop the bs. Make it as few files as possible so its easy to feed to ai to audit or change. I uploaded a few imageboards that have 1 page- main.rs. Easy to feed to ai in order to customize or audit. 
+If you are making something simple like an imageboard, stop the bs! People who make apps with lots of extra files and way too much code make it impossible to feed to Ai to audit are making crap apps. . Make it as few files as possible so its easy to feed to ai to audit or change. I uploaded a few imageboards that have 1 page- main.rs. Easy to feed to ai in order to customize or audit. 
 
 Rust is objectively superior in many ways, for many reasons. That is an objective fact. 
 -----------------------------------------------------------
