@@ -2,13 +2,6 @@
 -----------------------------------------------------------
 -----------------------------------------------------------
 
-
-
-
------------------------------------------------------------
------------------------------------------------------------
-# Ai models empower you to code apps - it is profoundly remarkable. Learning to code used to be cool, as ai gets better, learning to code is objectively silly :) 
-
 Want to dev like a chad??? 
 3 STEPS TO MAKE SUPERIOR APPS ::: 
 -----------------------------------------------------------
