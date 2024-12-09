@@ -12,6 +12,8 @@ Lots of git ppl use git as an obfuscated pile of crap as a backup for personal c
 
 If you are making something simple like an imageboard, stop the bs! People who make apps with lots of extra files and way too much code make it impossible to feed to Ai to audit are making crap apps. . Make it as few files as possible so its easy to feed to ai to audit or change. I uploaded a few imageboards that have 1 page- main.rs. Easy to feed to ai in order to customize or audit. 
 
+Kind of a crappy writing style above- i just wrote it fast. IDC tho, intros are not that vital. The main ideas are there. 
+
 Rust is objectively superior in many ways, for many reasons. That is an objective fact. 
 -----------------------------------------------------------
 -----------------------------------------------------------
