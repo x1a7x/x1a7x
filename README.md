@@ -42,13 +42,6 @@ Want to dev like a chad???
 
 
 
-About- im a usaf vet (p&t) and mostly f/w Rust a tiny bit of php. 
-
-About Rust Lang- Rust is god! 
-
-
-About PHP- In theory, a small, well-audited PHP codebase, following all security best practices, can be secure (the smaller the codebase the less security fixes are an absolute requirement). But given the same developer skill and diligence, Rust’s language design and compiler checks provide a more robust safety net. Over the long run, especially in complex scenarios, Rust generally makes it easier and more natural to achieve and maintain a higher baseline of safety and security compared to PHP. Objectively, rust is WAY more secure for many reasons. With Ai here now, constantly feeding your php code to ai to audit for security vulns is a good idea and must be done. There are numerous security vulns in php, more than most people know. HELL, there are numerous bugs/vulns that happen at runtime that even AI and the best php devs do not know about because its impossible to know !!  For real. 
-
 
 
 
