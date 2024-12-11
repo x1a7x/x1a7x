@@ -13,7 +13,7 @@ Want to dev like a chad???
 -----------------------------------------------------------
 -----------------------------------------------------------
 ![1](https://github.com/user-attachments/assets/3695a732-502d-408d-865e-ebdcff7c9216)
-# Step 2- Have ChatGPT write your code :) 
+# Step 2- Have Ai write your code :) 
 
 
 -----------------------------------------------------------
