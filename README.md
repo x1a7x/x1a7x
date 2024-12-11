@@ -19,7 +19,7 @@ Want to dev like a chad???
 -----------------------------------------------------------
 -----------------------------------------------------------
 -----------------------------------------------------------
-# Step 3- Ask people in high tuition coding boot camps/schools toiling with inferior langs if they feel stupid yet because ai can instantly make apps in any lang at all- including RUST :) MAYBE with a high iq and 20 years of study they could learn to a lot- but STILL in 20 years ai will be far superior to what it is today. 
+# Step 3- Ask people in high tuition coding boot camps/schools toiling with inferior langs if they feel stupid yet because ai can instantly make apps in any lang at all- including RUST :) 
 ![2](https://github.com/user-attachments/assets/da346cb4-458a-4803-8e4a-bca0c5842cfc)
 ![2](https://github.com/user-attachments/assets/da346cb4-458a-4803-8e4a-bca0c5842cfc)
 ![2](https://github.com/user-attachments/assets/da346cb4-458a-4803-8e4a-bca0c5842cfc)
