@@ -29,7 +29,7 @@ Want to dev like a chad???
 
 
 
-Truth is, for someone starting to learn to code, it will likely take 20 years to delvelop elite coding skills. Ai is already there- it can code well in multiple langs, provide guidancce- anything. Moreover, imagine how well Ai will be able to code in 20 years! 
+# Truth is, for someone starting to learn to code, it will likely take 20 years to delvelop elite coding skills. Ai is already there- it can code well in multiple langs. Ai is far superior to any high iq human brain.  Moreover, imagine how well Ai will be able to code in 20 years! 
 
 
 
