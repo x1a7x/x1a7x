@@ -39,7 +39,7 @@ Want to dev like a chad???
 
 
 
-# There are some awesome tech ppl for sure. But take 10 top coders from very advanced coding units, and NEVER bet on them to code better than a new ibm ai quantum computer. Tech "influencers" are always selling lies, making clickbait titles and going in circles. They want you to think they are superhuman smart. The absolute reality is that the human brain is vastly limited- Ai is far superior. I know of about 5 tech influencers who are wholesome, honest, and legit- they have the heart of a teacher and are honorable. ALL the rest is NOT wholesome at all. Its easy to see. 
+# There are some awesome tech ppl for sure. But take 10 top coders from very advanced coding units, and NEVER bet on them to code better than a new ibm ai quantum computer. Tech "influencers" are always selling lies, making clickbait titles and going in circles. They want you to think they are superhuman smart. The absolute reality is that the human brain is vastly limited- Ai is far superior. I know of about 5 tech influencers who are wholesome, honest, and legit- they have the heart of a teacher and are honorable. ALL the rest is a waste of your time, a distraction because they are NOT wholesome at all. Its easy to see. 
 
 
 
