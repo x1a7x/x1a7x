@@ -19,7 +19,7 @@ Want to dev like a giga-chad???
 -----------------------------------------------------------
 -----------------------------------------------------------
 -----------------------------------------------------------
-# Step 3- Ask computer sci people with high student loans if they feel stupid yet cuz u can code better !!
+# Step 3- Ask computer sci people with high student loans if they feel stupid cuz ur code is superior to they code !!
 ![2](https://github.com/user-attachments/assets/da346cb4-458a-4803-8e4a-bca0c5842cfc)
 ![2](https://github.com/user-attachments/assets/da346cb4-458a-4803-8e4a-bca0c5842cfc)
 ![2](https://github.com/user-attachments/assets/da346cb4-458a-4803-8e4a-bca0c5842cfc)
