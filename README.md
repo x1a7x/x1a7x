@@ -29,17 +29,9 @@ Want to dev like a giga-chad???
 
 
 
-# Truth is, for someone starting to learn to code, it will take 20 years to delvelop elite coding skills. Ai is already there- it can code well in multiple langs. Ai is far superior to any high iq human brain.  Moreover, imagine how well Ai will be able to code in 20 years! 
-
-
-# Remember, boys and girls- till Ai poops out a superior lang, Rust is god !! Learn to discern.
 
 ![rust](https://github.com/user-attachments/assets/4788eba0-1db7-4dc9-a675-a8478e0c9e10)
 
-
-
-
-# There are some awesome tech ppl for sure. But take 10 top coders from very advanced coding units, and NEVER bet on them to code better than a new ibm ai quantum computer. Tech "influencers" are always selling lies, making clickbait titles and going in circles. They want you to think they are superhuman smart. The absolute reality is that the human brain is vastly limited- Ai is far superior. I know of about 5 tech influencers who are wholesome, honest, and legit- they have the heart of a teacher and are honorable. ALL the rest is a waste of your time, a distraction because they are NOT wholesome at all. Its easy to see. Following the crowd makes you stupider. Learn to discern. 
 
 
 # Rust is god. 
